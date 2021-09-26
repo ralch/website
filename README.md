@@ -1,4 +1,4 @@
-# www.ralch.com
+# ralch.com
 
 [![main](https://github.com/ralch/website/actions/workflows/main.yml/badge.svg)](https://github.com/ralch/website/actions/workflows/main.yml)
 
@@ -6,7 +6,9 @@ My Professional Website
 
 ## Getting Started
 
-The website is implemented by using `react` and `react-static`. In order to
+The website is implemented by using `react` and `react-static`. First you can install all dependencies:
+
+In order to
 start development you should perform the following commands:
 
 ```

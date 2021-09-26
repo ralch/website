@@ -6,13 +6,18 @@ My Professional Website
 
 ## Getting Started
 
-The website is implemented by using `react` and `react-static`. First you can install all dependencies:
-
-In order to
-start development you should perform the following commands:
+The website is implemented by using `react` and `react-static`. First you can
+install all dependencies:
 
 ```
 $ yarn install
+```
+
+## Run
+
+In order to start development you should perform the following commands:
+
+```
 $ yarn start
 ```
 

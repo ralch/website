@@ -67,7 +67,7 @@ export default function Header() {
                   to="/contacts"
                   className="btn btn--sm btn--primary type--uppercase"
                 >
-                  <span className="btn__text">Contact us</span>
+                  <span className="btn__text">Contact me</span>
                 </Link>
               </div>
             </div>

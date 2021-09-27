@@ -5,7 +5,7 @@ import { Head } from "react-static";
 export default () => (
   <>
     <Head>
-      <title>Phogo Labs | Services</title>
+      <title>Svetlin Ralchev | Services</title>
     </Head>
     <section className="imageblock switchable feature-large bg--secondary">
       <div className="imageblock__content col-lg-6 col-md-4 pos-right">

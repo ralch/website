@@ -1,0 +1,16 @@
+/*! Place your custom styles here */
+
+.bar .logo {
+  max-height: 46px;
+  max-width: none;
+}
+
+.menu-horizontal > li:not(:hover) > a,
+.menu-horizontal > li:not(:hover) > span,
+.menu-horizontal > li:not(:hover) > .modal-instance > .modal-trigger {
+  opacity: 1;
+}
+
+.icon.button {
+  line-height: 46px;
+}

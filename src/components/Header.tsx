@@ -49,6 +49,9 @@ export default function Header() {
                     <Link to="/">Home</Link>
                   </li>
                   <li>
+                    <a href="https://blog.ralch.com" target="_blank">Blog</a>
+                  </li>
+                  <li>
                     <Link to="/about">About Me</Link>
                   </li>
                   <li>

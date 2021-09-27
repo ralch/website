@@ -24,6 +24,9 @@ jobs:
       - name: Build
         run: yarn build
 
+      - name: Bundle
+        run: yarn bundle
+
       - name: Export
         run: yarn export
 

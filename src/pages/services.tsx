@@ -17,12 +17,12 @@ export default () => (
             <h2>What I Do</h2>
             <p className="lead">
               I am building cloud-native solutions, backend applications, and
-              microservices. I'll help you understand not just how but why we
+              microservices. I'll help you understand not just how but why I
               build your project in a particular way.
             </p>
             <p className="lead">
               My strategic focus is Golang and Open Source technologies, but I
-              am not limited to them. We'll put the right technologies on your
+              am not limited to them. I'll put the right technologies on your
               radar and make sure you get the advantage.
             </p>
           </div>
@@ -46,7 +46,7 @@ export default () => (
               <h5>Backend Development</h5>
               <p>
                 I can build RESTful APIs and high-available microservices that
-                scale into the future. We are experts in Golang, C# and .NET.
+                scale into the future. I are experts in Golang, C# and .NET.
               </p>
             </div>
           </div>
@@ -55,7 +55,7 @@ export default () => (
               <h5>Cloud Operations</h5>
               <p>
                 By leveraging state-of-the-art open source configuration
-                management tools, we aim to reduce human error in the deployment
+                management tools, I aim to reduce human error in the deployment
                 process. I can help you ship your project effortlessly by
                 coninous delivery with tools such as Concourse, Docker, Ansible,
                 Terraform and BOSH.
